@@ -1,0 +1,36 @@
+newmtl Atlas
+Kd 1 1 1
+Ks 0.6470588 0.6175277 0.2188582
+map_Kd atlas.png
+illum 2
+
+newmtl Leaves_V01
+Kd 0.5882353 0.5882353 0.5882353
+Ks 1 1 1
+map_Kd tree_DIF.png
+illum 2
+
+newmtl Branches_0
+Kd 1 1 1
+map_Kd BroadleafBark.png
+map_Bump BroadleafBark_Normal.png
+illum 2
+
+newmtl Leaves_1
+Kd 1 1 1
+map_Kd Broadleaf_Mobile_Atlas.png
+map_Bump Broadleaf_Mobile_Atlas_Normal.png
+illum 2
+
+newmtl Leaves_02
+Kd 1 0 0
+Ks 1 1 1
+map_Kd tree_DIF.png
+illum 2
+
+newmtl Leavas_03
+Kd 0.7426471 0.4763184 0
+Ks 1 1 1
+map_Kd tree_DIF.png
+illum 2
+

@@ -1,0 +1,7 @@
+newmtl TreeToys
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd TreeToys_a.png
+map_Bump TreeToys_n.png
+illum 2
+

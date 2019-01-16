@@ -1,0 +1,7 @@
+newmtl Candie&Sock
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd Candie&Sock_a.png
+map_Bump Candie&Sock_n.png
+illum 2
+

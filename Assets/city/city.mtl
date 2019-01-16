@@ -1,0 +1,214 @@
+newmtl M_paintedmetal
+Kd 1 0.4974093 0
+map_Kd T_WindowA_B.png
+map_Bump T_WindowA_N.png
+illum 2
+
+newmtl Trash_02_New
+Kd 1 1 1
+map_Kd Trash_02_new_d.png
+map_Bump Trash_02_n.png
+illum 2
+
+newmtl RFAIPP_Armchair_4
+Kd 1 1 1
+map_Kd RFAIPP_Armchair_4_albedo.png
+map_Bump RFAIPP_Armchair_4_nm.png
+illum 2
+
+newmtl M_concrete_E
+Kd 1 1 1
+map_Kd T_concreteE_B.png
+map_Bump T_concreteE_N.png
+illum 2
+
+newmtl M_concrete_A
+Kd 1 1 1
+map_Kd T_concreteA_B.png
+map_Bump T_concreteA_N.png
+illum 2
+
+newmtl Bench_01_New
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd Bench_01_New_D.png
+map_Bump Bench_01_N.png
+illum 2
+
+newmtl M_streetlight
+Kd 1 1 1
+map_Kd T_streetlight_B.png
+map_Bump T_streetlight_N_DirectX.png
+illum 2
+
+newmtl RFAIPP_Bookcase_2
+Kd 1 1 1
+map_Kd RFAIPP_Bookcase_2_albedo.png
+map_Bump RFAIPP_Bookcase_2_nm.png
+illum 2
+
+newmtl Material__Block
+Kd 1 0.7358065 0.475
+map_Kd Stone_Block_Albedo.png
+map_Bump Stone_Block_Normal.png
+illum 2
+
+newmtl Material__Lion
+Kd 1 0.7358065 0.475
+map_Kd Lion_Statue_Albedo.png
+map_Bump Lion_Statue_Normal.png
+illum 2
+
+newmtl RFAIPP_Lamp
+Kd 1 1 1
+map_Kd RFAIPP_Lamp_albedo.png
+map_Bump RFAIPP_Lamp_nm.png
+illum 2
+
+newmtl Hydrant_01_New
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd Hydrant_01_New_D.png
+map_Bump Hydrant_01_N.png
+illum 2
+
+newmtl RFAIPP_Kitchen_Table_1
+Kd 1 1 1
+map_Kd RFAIPP_Kitchen_Table_1_albedo.png
+map_Bump RFAIPP_Kitchen_Table_1_nm.png
+illum 2
+
+newmtl M_Pavement
+Kd 1 1 1
+map_Kd T_pavement_B.png
+map_Bump T_pavement_N.png
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
+newmtl RFAIPP_Kitchen_Table_4
+Kd 1 1 1
+map_Kd RFAIPP_Kitchen_Table_4_albedo.png
+map_Bump RFAIPP_Kitchen_Table_4_nm.png
+illum 2
+
+newmtl RFAIPP_Chair_4
+Kd 1 1 1
+map_Kd RFAIPP_Chair_4_albedo.png
+map_Bump RFAIPP_Chair_4_nm.png
+illum 2
+
+newmtl RFAIPP_Chandelier_7
+Kd 1 1 1
+map_Kd RFAIPP_Chandelier_7_albedo.png
+map_Bump RFAIPP_Chandelier_7_nm.png
+illum 2
+
+newmtl RFAIPP_Bed_1
+Kd 0.6509434 0.6509434 0.6509434
+map_Kd RFAIPP_Bed_1_albedo.png
+map_Bump RFAIPP_Bed_1_nm.png
+illum 2
+
+newmtl CarRig
+map_Kd CarRig.png
+illum 2
+
+newmtl car1
+map_Kd car1.png
+illum 2
+
+newmtl Car2
+map_Kd Car2.png
+illum 2
+
+newmtl carvan
+map_Kd carvan.png
+illum 2
+
+newmtl Atlas
+Kd 1 1 1
+Ks 0.6470588 0.6175277 0.2188582
+map_Kd atlas.png
+illum 2
+
+newmtl RFAIPP_Armchair_1
+Kd 1 1 1
+map_Kd RFAIPP_Armchair_1_albedo.png
+map_Bump RFAIPP_Armchair_1_nm.png
+illum 2
+
+newmtl M_road
+Kd 1 1 1
+map_Kd T_road_B.png
+map_Bump T_road_N.png
+illum 2
+
+newmtl RFAIPP_Sofa_1
+Kd 1 1 1
+map_Kd RFAIPP_Sofa_1_albedo.png
+map_Bump RFAIPP_Sofa_1_nm.png
+illum 2
+
+newmtl M_wall_B
+Kd 1 1 1
+map_Kd T_WallWindowB_B.png
+map_Bump T_WallWindowB_N.png
+illum 2
+
+newmtl M_winframe_B
+Kd 1 1 1
+map_Kd T_WindowB_B.png
+map_Bump T_WindowB_N.png
+illum 2
+
+newmtl Grass
+map_Kd grass.png
+illum 2
+
+newmtl M_roof
+Kd 1 1 1
+map_Kd T_roof_B.png
+map_Bump T_roof_N.png
+illum 2
+
+newmtl Mud
+map_Kd mud.png
+illum 2
+
+newmtl M_wall_A
+Kd 1 1 1
+map_Kd T_WallWindowA_B.png
+map_Bump T_WallWindowA_N.png
+illum 2
+
+newmtl M_wood
+Kd 1 1 1
+map_Kd T_wood_B.png
+map_Bump T_wood_N.png
+illum 2
+
+newmtl M_winframe_A
+Kd 1 1 1
+map_Kd T_WindowA_B.png
+map_Bump T_WindowA_N.png
+illum 2
+
+newmtl M_bronze
+Kd 0.8039216 0.4980392 0.1960784
+illum 2
+
+newmtl M_concrete_B
+Kd 1 0.9421875 0.9062499
+map_Kd T_concreteB_B.png
+map_Bump T_concreteB_N.png
+illum 2
+
+newmtl M_reddoor
+Kd 1 0.25 0.25
+map_Kd T_WindowA_B.png
+map_Bump T_WindowA_N.png
+illum 2
+
